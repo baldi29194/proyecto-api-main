@@ -1,17 +1,6 @@
 
 # Proyecto API REST con Node.JS
 
-Este es el proyecto API REST con node.js  
-Proyecto deployado en render.com: https://proyecto-api-test.onrender.com  
-
-Lista de APIs en render.com:  
-Listar Usuarios: **GET** https://proyecto-api-test.onrender.com/usuarios/  
-Listar Usuario: **GET** https://proyecto-api-test.onrender.com/usuarios/5  
-Actualizar Usuario (req. json en body): **PUT** https://proyecto-api-test.onrender.com/usuarios/5  
-Crear Usuario (req. json en body) **POST** https://proyecto-api-test.onrender.com/usuarios/  
-Eliminar Usuario: **DELETE** https://proyecto-api-test.onrender.com/usuarios/10  
-Promedio Edades Usuarios: **GET** https://proyecto-api-test.onrender.com/usuarios/promedio-edad/  
-Estado Proyecto: **GET** https://proyecto-api-test.onrender.com/estado/  
 
 
 En PostgreSQL crear el usuario para conectar.
